@@ -1,0 +1,6 @@
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+C:\Users\chirag mali\source\repos\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb

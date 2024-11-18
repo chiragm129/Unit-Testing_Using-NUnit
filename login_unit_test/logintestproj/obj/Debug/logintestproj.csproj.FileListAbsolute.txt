@@ -1,0 +1,6 @@
+C:\Users\chirag mali\source\repos\logintestproj\bin\Debug\logintestproj.dll
+C:\Users\chirag mali\source\repos\logintestproj\bin\Debug\logintestproj.pdb
+C:\Users\chirag mali\source\repos\logintestproj\obj\Debug\logintestproj.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\logintestproj\obj\Debug\logintestproj.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\logintestproj\obj\Debug\logintestproj.dll
+C:\Users\chirag mali\source\repos\logintestproj\obj\Debug\logintestproj.pdb

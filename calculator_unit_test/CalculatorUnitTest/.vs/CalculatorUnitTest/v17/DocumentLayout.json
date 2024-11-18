@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\CalculatorUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFBA037-EF90-49A5-A1F0-E8F88E020D6F}|..\\UnitTestProjectss\\UnitTestProjectss.csproj|c:\\users\\chirag mali\\source\\repos\\unittestprojectss\\arithmatictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38713CD5-08B9-478C-9DBD-06FC97014E32}|CalculatorUnitTest.csproj|C:\\Users\\chirag mali\\source\\repos\\CalculatorUnitTest\\arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38713CD5-08B9-478C-9DBD-06FC97014E32}|CalculatorUnitTest.csproj|solutionrelative:arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFBA037-EF90-49A5-A1F0-E8F88E020D6F}|..\\UnitTestProjectss\\UnitTestProjectss.csproj|c:\\users\\chirag mali\\source\\repos\\unittestprojectss\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProjectss\\packages.config",
+              "RelativeDocumentMoniker": "..\\UnitTestProjectss\\packages.config",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProjectss\\packages.config",
+              "RelativeToolTip": "..\\UnitTestProjectss\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T10:53:37.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArithmaticTest.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProjectss\\ArithmaticTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProjectss\\ArithmaticTest.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProjectss\\ArithmaticTest.cs",
+              "RelativeToolTip": "..\\UnitTestProjectss\\ArithmaticTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:47:34.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmatic.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\CalculatorUnitTest\\Arithmatic.cs",
+              "RelativeDocumentMoniker": "Arithmatic.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\CalculatorUnitTest\\Arithmatic.cs",
+              "RelativeToolTip": "Arithmatic.cs",
+              "ViewState": "AQIAAAwAAACAmZmZmZkBwBsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:24:35.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
